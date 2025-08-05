@@ -107,7 +107,7 @@ Maybe our website has a way to upload assets that can be called by embedded HTML
       topImage.style.opacity = opacityValue;
     });
   </script>
-Drag the slider to compare imagery of Fordow.
+<p style="text-align:center;">Drag the slider to compare imagery of Fordow</p>
 
 ### 2. ArcGIS Interactive Maps
 
