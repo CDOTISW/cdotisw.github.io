@@ -265,7 +265,7 @@ This is a reference website on the feature this proposal seeks permission to use
 
 Note: Complex projects such as the interactive map (2000 lines of code) are too much for the WordPress built-in HTML code editor to handle. It crashes the website. This is why we need GitHub – need to get an external site to host the code so the ISW site simply calls on the URL.  
 
-Karina created an interactive map integrated with the China Team update in the way described above via the AEI WordPress account to demonstrate what she hopes to do on ISW’s website: [China-Taiwan Weekly Update, July 24, 2025 | American Enterprise Institute - AEI](https://www.aei.org/articles/china-taiwan-weekly-update-july-24-2025/)
+Karina created an interactive map integrated with the China Team update in the way described above via the AEI WordPress account to demonstrate what she hopes to do on ISW’s website: [China-Taiwan Weekly Update, July 24, 2025 American Enterprise Institute - AEI](https://www.aei.org/articles/china-taiwan-weekly-update-july-24-2025/)
 
 ## Unique advantages afforded through the GitHub/WordPress method: 
 1. Quick and easy to train ER staff to use. The researcher will handle the HTML file hosting, so ER would only need to plug in the URL from the researcher into the code block provided above. 
