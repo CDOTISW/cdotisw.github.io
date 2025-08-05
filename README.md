@@ -310,7 +310,7 @@ Github is [free for organizations](https://docs.github.com/en/get-started/learni
 - Team access controls for managing groups
 
 Github repositories (where code is stored) [can be private](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories#about-repository-visibility),
-which would prevent anyone stealing Karina's coded graphs (or the data behind them). 
+which would prevent anyone stealing Karina's cool graphs (or the data behind them). 
 Depending on how we are going to deploy HTML to the website, some code might have to be public so that it is visible to others.
 This is something we can solve as we test the best use practices with the website. 
 
