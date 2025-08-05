@@ -125,7 +125,7 @@ and enhance written work with interactive maps right there as a part of the stor
 
 **For example,** we have included maps showing dollars spent by oblast as a part of the [force generation update.](https://www.understandingwar.org/backgrounder/russian-force-generation-and-technological-adaptations-update-may-7-2025)
 
-<img src="/assets/photos/force_gen_example.png" alt="Force Generation Example" style="max-width:100%; margin: 20px 0;">
+<img src="/assets/photos/force_gen_example.png" alt="Force Generation Example" style="max-width:80%; margin: 20px 0;">
 
 Instead, we could embed an interactive map below the body text, like so: (pan and click around!)
 <!-- Add script to the <head> of your page to load the embeddable map component -->
@@ -146,4 +146,4 @@ in [Lina's occupation update](https://www.understandingwar.org/backgrounder/russ
 as well.  
 
 
-<img src="/assets/photos/occ_example.png" alt="Occupation UPdate Example" style="max-width:100%; margin: 20px 0;">
+<img src="/assets/photos/occ_example.png" alt="Occupation UPdate Example" style="max-width:80%; margin: 20px 0;">
