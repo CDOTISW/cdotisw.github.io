@@ -27,9 +27,11 @@ Limited space, especially as graphs get more datapoints.
 
 <p style="text-align: center"><img src="/assets/photos/Picture2_graph.png" width="500"></p>
 
-<p style="text-align: center"><img src="/assets/photos/Picture3_reservoir_GIF.png" width="500"></p>
+<br>
 
-GIFs don't play in Word, but you get the idea. Valuable for posting on social media, but clunky and frustrating in an article in a website.  
+<p style="text-align: center"><img src="/assets/photos/TehranReservoirsGIF.gif" width="700"></p>
+
+GIFs are valuable for posting on social media, but clunky and frustrating in an article in a website.  
 
 <p style="text-align: center"><img src="/assets/photos/Picture4_strikegraph.png" width="500"></p>
 
