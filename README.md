@@ -12,7 +12,7 @@
   - <a href="#Maps">Interactive Maps</a><br>
   <a href="#Maps"><strong>Frequency of use:</strong></a> Monthly at minimum for China team to host our monthly counts on events such as ADIZ incursions. Likely to have major projects at least once every few months that would greatly benefit from interactivity. Geoint would likely use an html embed on a weekly basis.<br>
   <a href="#Implementation"><strong>How do we implement?:</strong></a><br>
-  <a href="#Licensing"><strong>Licensing details for Software:</strong></a> China team: R and RStudio are free open-source programs under the GNU General Public License. Full details at the end.
+  <a href="#Licensing"><strong>Licensing details for Software:</strong></a> China team: R and RStudio are free open-source programs under the GNU General Public License. Github is free to use, but probably requires our code to be public. Full details at the end.
 </div>
 
 ### What are HTML files good for? 
@@ -277,7 +277,7 @@ Karina created an interactive map integrated with the China Team update in the w
 - Begin brainstorming new graphics and train staff or interns on these newfound capabilities. 
 
 ### <a id="Licensing"></a>Licensing details: 
-R and Rstudio (used by Karina): 
+__R and Rstudio (used by Karina):__
 
 _This software is distributed under the terms of the GNU General Public License, either Version 2, June 1991 or Version 3, June 2007._ 
 _The terms of version 2 of the license are in a file called COPYING which you should have received with_
@@ -291,3 +291,21 @@ _or obtained at the URI given._
 _Version 3 of the license can be displayed by RShowDoc("LGPL-3")._
 
 _'Share and Enjoy.'_
+
+__Github__
+
+Github is [free for organizations](https://docs.github.com/en/get-started/learning-about-github/githubs-plans#github-free-for-organizations), and comes with:
+- Deployment protection rules for public repositories
+- Two-factor authentication enforcement
+- 500 MB GitHub Packages storage
+- 120 GitHub Codespaces core hours per month
+- 15 GB GitHub Codespaces storage per month
+- GitHub Actions features:
+  - Deployment protection rules for public repositories
+  - GitHub Pages in public repositories
+- Team access controls for managing groups
+
+Github repositories (where code is stored) [can be private](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories#about-repository-visibility),
+which would prevent anyone stealing Karina's coded graphs (or the data behind them). 
+Depending on how we are going to deploy HTML to the website, some code might have to be public so that it is visible to others.
+This is something we can solve as we test the best use practices with the website. 
