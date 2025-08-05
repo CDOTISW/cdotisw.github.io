@@ -45,6 +45,8 @@ Creates interactive elements that allow researchers to display more information 
 
 ### Graphs:
 
+<iframe src="/assets/photos/interactive_map%2012.html" width="900" height="500" style="border:0;" title="Interactive Map"></iframe>
+
 This is an interactive scatter plot on Taiwanese legislators undergoing recall elections, where each point is labelled with name and district. This example highlights the following benefits:  
 
 1. Context: Readers who want to find particular districts/legislators don’t have to dig through electoral data themselves to further investigate the info presented in this chart.  
