@@ -287,7 +287,7 @@ _This software is distributed under the terms of the GNU General Public License,
 _The terms of version 2 of the license are in a file called COPYING which you should have received with_
 _this software and which can be displayed by RShowDoc("COPYING"). Version 3 of the license can be displayed by RShowDoc("GPL-3")._
 
-_Copies of both versions 2 and 3 of the license can be found at https://www.R-project.org/Licenses/._
+_Copies of both versions 2 and 3 of the license can be found at [https://www.R-project.org/Licenses/](https://www.R-project.org/Licenses/)._
 
 *A small number of files (the API header files listed in R_DOC_DIR/COPYRIGHTS) are distributed under the*
 _LESSER GNU GENERAL PUBLIC LICENSE, version 2.1 or later. This can be displayed by RShowDoc("LGPL-2.1"),_
