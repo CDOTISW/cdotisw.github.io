@@ -253,7 +253,7 @@ This is a reference website on the feature this proposal seeks permission to use
 2. Use the HTML code block feature in WordPress to embed it into the website.  
   - Karina has successfully used the code block on the AEI website and it takes about a minute to embed after one is familiar with how to do it.  
     - Embed code: 
-    ```
+    ```html
 <iframe class="mobile-hide" src="URL GOES HERE" width="100%" height="776"></iframe> 
   ```
 
