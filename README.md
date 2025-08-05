@@ -46,7 +46,7 @@ The entire internet is run on the back of HTML, which is a coding language desig
 
 ### <a id="UseCases"></a>How do HTML files add extra functionality? 
 
-Create interactive elements that allow researchers to display more information as the user moves their mouse. 
+They allow us to create interactive elements! 
 
 ### <a id="Graphs"></a>Graphs:
 This is an interactive scatter plot on Taiwanese legislators undergoing recall elections, where each point is labelled with name and district. This example highlights the following benefits:  
@@ -275,7 +275,8 @@ Karina created an interactive map integrated with the China Team update in the w
 
 ## Next Steps: 
 - Gain approval to host HTML code on the new ISW site.  
-- Gain approval to continue using GitHub to host HTML code.  
+- Gain approval to continue using GitHub to host HTML code.
+- Understand what the options for displaying on mobile are - either through Wordpress or in a one-script-fits-all approach. How does ER approach structuring the website for web/mobile?  
 - Gain permission to test how much HTML code the ISW website can handle before crashing.  
 - Upgrade existing routine graphics to take advantage of interactive capabilities.  
 - Begin brainstorming new graphics and train staff or interns on these newfound capabilities. 
