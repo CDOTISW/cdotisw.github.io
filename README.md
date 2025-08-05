@@ -1,6 +1,6 @@
-## How can embedded HTML improve our product and tell stories more effectively?
+# How can embedded HTML improve our product and tell stories more effectively?
 
-# Interactive Imagery Sliders
+### 1. Interactive Imagery Sliders
 
 Instead of relying on GIFs to compare before/after imagery, we can embed a small bit of HTML
 that allows readers to investigate at their own pace. This requires the image files to be stored
@@ -108,7 +108,7 @@ Maybe our website has a way to upload assets that can be called by embedded HTML
     });
   </script>
 
-# ArcGIS Interactive Maps
+### 2. ArcGIS Interactive Maps
 
 Karina has shown how maps made with other software (R) can be embedded in a website.
 But our Arcgis Maps, which the GEOINT team uses every single day,
@@ -122,7 +122,7 @@ You will notice the URL is actually an ESRI website, which means we lost traffic
 We can embed these maps directly in our website, which will allow us to keep traffic on our site
 and enhance written work with interactive maps as a part of the story, not as a link to a separate page.
 
-# For example
+#### For example:
 
 Not only could we keep our general interactive maps on our own website, but we could also
 use more interactive maps more smoothly in other ways.
