@@ -7,7 +7,7 @@
 Instead of relying on GIFs to compare before/after imagery, we can embed a small bit of HTML
 that allows readers to investigate at their own pace. This uses a small HTML script that displays these two images interactively.
 (*These images are stored in imgur, which we might want a better solution for. They have to be stored somewhere, but
-aybe our website has a way to upload assets that can be called by embedded HTML?*)
+maybe our website has a way to upload assets that can be called by embedded HTML?*)
 
   <style>
     body {
