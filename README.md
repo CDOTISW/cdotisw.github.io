@@ -124,13 +124,9 @@ You will notice the URL is actually an ESRI website, which means we lost traffic
 We can embed these maps directly in our website, which will allow us to keep traffic on our site
 and enhance written work with interactive maps as a part of the story, not as a link to a separate page.
 
-#### For example,
-
-Not only could we keep our general interactive maps on our own website, but we could also
-use more interactive maps more smoothly in other ways.
-
-We have made maps showing dollars spent by oblast as a part of the [force generation update.](https://www.understandingwar.org/backgrounder/russian-force-generation-and-technological-adaptations-update-may-7-2025)
+**For example,** we have included maps showing dollars spent by oblast as a part of the [force generation update.](https://www.understandingwar.org/backgrounder/russian-force-generation-and-technological-adaptations-update-may-7-2025)
 <img src="/assets/photos/force_gen_example.png" alt="Force Generation Example" style="max-width:100%; margin: 20px 0;">
+
 
 Instead, we could embed an interactive map below the body text, like so:
 <!-- Add script to the <head> of your page to load the embeddable map component -->
