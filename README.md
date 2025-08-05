@@ -19,25 +19,24 @@ The entire internet is run on the back of HTML, which is just a coding language 
 
 ### Drawbacks of relying solely on static graphics (the status quo): 
 
-Difficult to add details without making the image too dense.
+<p style="text-align: center"><img src="/assets/photos/Picture1_graph.png" width="600"></p>
 
-<p style="text-align: center"><img src="/assets/photos/Picture1_graph.png" width="500"></p>
+- Difficult to add details without making the image too dense.
 
-Limited space, especially as graphs get more datapoints.
+<p style="text-align: center"><img src="/assets/photos/Picture2_graph.png" width="600"></p>
 
-<p style="text-align: center"><img src="/assets/photos/Picture2_graph.png" width="500"></p>
-
+- Limited space, especially as graphs get more datapoints.
 <br>
 
 <p style="text-align: center"><img src="/assets/photos/TehranReservoirsGIF.gif" width="700"></p>
 
 GIFs are valuable for posting on social media, but clunky and frustrating in an article in a website.  
 
-<p style="text-align: center"><img src="/assets/photos/Picture4_strikegraph.png" width="500"></p>
+<p style="text-align: center"><img src="/assets/photos/Picture4_strikegraph.png" width="600"></p>
 
 So many columns! Wouldn’t it be nice to be able to interact with each one? 
 
-<p style="text-align: center"><img src="/assets/photos/Picture5_spratly.png" width="500"></p>
+<p style="text-align: center"><img src="/assets/photos/Picture5_spratly.png" width="600"></p>
 
 Not very helpful to readers to just get the names of obscure outposts in the South China Sea with no historical context. Could move a lot of routine background info from written updates into clickable pop-ups in the map.   
 
