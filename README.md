@@ -65,8 +65,6 @@ This is an interactive scatter plot on Taiwanese legislators undergoing recall e
 
 There are dozens of interactive graph options available that more effectively condense information compared to default options in Microsoft Excel. See more here: [https://r-graph-gallery.com/interactive-charts.html](https://r-graph-gallery.com/interactive-charts.html) 
 
-<a href="#top" style="display:inline-block; padding:8px 16px; background:#eee; border-radius:6px; border:1px solid #ccc; text-decoration:none; color:#333; font-weight:bold;">↑ Return to Top</a>
-
 ### <a id="Images"></a>Interactive Image Sliders 
 
 Instead of relying on GIFs to compare before/after imagery, we can embed a small bit of HTML
@@ -175,8 +173,6 @@ maybe our website has a way to upload assets that can be called by embedded HTML
   </script>
 <p style="text-align:center;">Drag the slider to compare imagery of Fordow</p>
 
-<a href="#top" style="display:inline-block; padding:8px 16px; background:#eee; border-radius:6px; border:1px solid #ccc; text-decoration:none; color:#333; font-weight:bold;">↑ Return to Top</a>
-
 ### <a id="Maps"></a>ArcGIS Interactive Maps
 
 Arcgis Maps, which the GEOINT team uses every single day,
@@ -273,8 +269,6 @@ Karina created an interactive map integrated with the China Team update in the w
 3. Displays interactive features without having to open a new tab. This is unlike our current ArcGIS maps. Otherwise, most readers probably aren’t going to bother clicking. 
 4. Low website resource usage. HTML files aren’t particularly complicated and they load quickly. **It’s faster than booting up the ArcGIS interactive maps.**
 
-<a href="#top" style="display:inline-block; padding:8px 16px; background:#eee; border-radius:6px; border:1px solid #ccc; text-decoration:none; color:#333; font-weight:bold;">↑ Return to Top</a>
-
 ### <a id="Frequency"></a> Proposed usage frequency: 
 - Monthly at minimum for China team ADIZ incursion updates. Karina plans to convert this graph into an interactive style that displays more nicely. This would also open the door to more creative visualizations as we are currently severely constrained by our website capabilities. Taiwanese legislative recalls are still ongoing and there may be further room for analysis with interactive maps. China team is also looking to publish an interactive network of purged PLA officials in the coming months.  
 - GEOINT would use these features monthly at a minimum, and would mostly use it to supplement less-frequent publications like the occupation update, as opposed to the daily Russian update. As more staff are trained and more ideas are developed, the frequency could increase. 
@@ -319,3 +313,5 @@ Github repositories (where code is stored) [can be private](https://docs.github.
 which would prevent anyone stealing Karina's coded graphs (or the data behind them). 
 Depending on how we are going to deploy HTML to the website, some code might have to be public so that it is visible to others.
 This is something we can solve as we test the best use practices with the website. 
+
+<a href="#top" style="display:inline-block; padding:8px 16px; background:#eee; border-radius:6px; border:1px solid #ccc; text-decoration:none; color:#333; font-weight:bold;">↑ Return to Top</a>
