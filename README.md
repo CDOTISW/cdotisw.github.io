@@ -12,7 +12,7 @@
   - [Image Sliders](#Images)
   - [Interactive Maps](#Maps) 
 
-**[Frequency of use:](Frequency)** Monthly at minimum for China team to host our monthly counts on events such as ADIZ incursions. Likely to have major projects at least once every few months that would greatly benefit from interactivity. Geoint would likely use an html embed on a weekly basis. 
+**[Frequency of use:](#Frequency)** Monthly at minimum for China team to host our monthly counts on events such as ADIZ incursions. Likely to have major projects at least once every few months that would greatly benefit from interactivity. Geoint would likely use an html embed on a weekly basis. 
 
 **[How do we implement?:](#Implementation)**
 
