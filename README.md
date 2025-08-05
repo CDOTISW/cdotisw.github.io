@@ -45,7 +45,7 @@ Creates interactive elements that allow researchers to display more information 
 
 ### Graphs:
 
-<iframe src="/assets/photos/interactive_map%2012.html" width="600" height="500" style="border:0;" title="Interactive Map"></iframe>
+<iframe src="/assets/photos/legislativerecallscatter2d%1.html" width="600" height="500" style="border:0;" title="Interactive Graph"></iframe>
 
 This is an interactive scatter plot on Taiwanese legislators undergoing recall elections, where each point is labelled with name and district. This example highlights the following benefits:  
 
@@ -219,6 +219,7 @@ Or like this! This loads faster but doesn't interact with the pop-ups as well as
 
 Beyond Arcgis, interactive graphics can also be constructed in R.
 
+<iframe src="/assets/photos/interactive_map%2012.html" width="600" height="500" style="border:0;" title="Interactive Map"></iframe>
 
 Taiwanese legislative recalls could have potentially had geographic patterns, so mapping out the datapoints and color-coding them is valuable. Taiwan’s population distribution makes it extremely difficult to construct a visually pleasing and informative static map.
 
