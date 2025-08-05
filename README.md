@@ -124,8 +124,8 @@ Instead of using these Arcgis pages, we should embed these maps directly in our 
 and enhance written work with interactive maps right there as a part of the story, not as a link to a separate page.
 
 **For example,** we have included maps showing dollars spent by oblast as a part of the [force generation update.](https://www.understandingwar.org/backgrounder/russian-force-generation-and-technological-adaptations-update-may-7-2025)
-<img src="/assets/photos/force_gen_example.png" alt="Force Generation Example" style="max-width:100%; margin: 20px 0;">
 
+<img src="/assets/photos/force_gen_example.png" alt="Force Generation Example" style="max-width:100%; margin: 20px 0;">
 
 Instead, we could embed an interactive map below the body text, like so: (pan and click around!)
 <!-- Add script to the <head> of your page to load the embeddable map component -->
@@ -141,7 +141,7 @@ Instead, we could embed an interactive map below the body text, like so: (pan an
   portal-url="https://understandingwar.maps.arcgis.com">
 </arcgis-embedded-map>
 
- The same could be done in place of the maps showing locations of childrens camps
+The same could be done in place of the maps showing locations of childrens camps
 in [Lina's occupation update](https://www.understandingwar.org/backgrounder/russian-occupation-update-may-15-2025)
 as well.  
 
