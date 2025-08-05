@@ -1,6 +1,6 @@
-# How can embedded HTML improve our product and tell stories more effectively?
+## How can embedded HTML improve our product and tell stories more effectively?
 
-### 1. Interactive Imagery Sliders
+# Interactive Imagery Sliders
 
 Instead of relying on GIFs to compare before/after imagery, we can embed a small bit of HTML
 that allows readers to investigate at their own pace. This requires the image files to be stored
@@ -108,7 +108,7 @@ Maybe our website has a way to upload assets that can be called by embedded HTML
     });
   </script>
 
-### 2. ArcGIS Interactive Maps
+# ArcGIS Interactive Maps
 
 Karina has shown how maps made with other software (R) can be embedded in a website.
 But our Arcgis Maps, which the GEOINT team uses every single day,
@@ -122,13 +122,13 @@ You will notice the URL is actually an ESRI website, which means we lost traffic
 We can embed these maps directly in our website, which will allow us to keep traffic on our site
 and enhance written work with interactive maps as a part of the story, not as a link to a separate page.
 
-#### For example:
+# For example
 
 Not only could we keep our general interactive maps on our own website, but we could also
 use more interactive maps more smoothly in other ways.
 
 We have made maps showing dollars spent by oblast as a part of the [force generation update.](https://www.understandingwar.org/backgrounder/russian-force-generation-and-technological-adaptations-update-may-7-2025)
-<img src="/assets/images/force_gen_example.png" alt="Force Generation Example" style="max-width:100%; margin: 20px 0;">
+<img src="/assets/photos/force_gen_example.png" alt="Force Generation Example" style="max-width:100%; margin: 20px 0;">
 
 Instead, we could embed an interactive map below the body text, like so:
 <!-- Add script to the <head> of your page to load the embeddable map component -->
@@ -147,5 +147,4 @@ Instead, we could embed an interactive map below the body text, like so:
  The same could be done in place of the maps showing locations of childrens camps
 in [Lina's occupation update](https://www.understandingwar.org/backgrounder/russian-occupation-update-may-15-2025)
 as well.  
-<img src="/assets/images/occ_example.png" alt="Occupation UPdate Example" style="max-width:100%; margin: 20px 0;">
-
+<img src="/assets/photos/occ_example.png" alt="Occupation UPdate Example" style="max-width:100%; margin: 20px 0;">
