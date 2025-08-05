@@ -1,5 +1,3 @@
-Interactive Demo
-
 ## How can embedded HTML improve our product and tell stories more effectively?
 
 ### 1. Interactive Imagery Sliders
@@ -127,7 +125,7 @@ and enhance written work with interactive maps right there as a part of the stor
 
 <img src="/assets/photos/force_gen_example.png" alt="Force Generation Example" style="max-width:80%; margin: 20px 0;">
 
-Instead, we could embed an interactive map below the body text, like so: (pan and click around!)
+Instead, we could embed an interactive map below the body text, like so: (you can pan and click around!)
 <!-- Add script to the <head> of your page to load the embeddable map component -->
 <script type="module" src="https://js.arcgis.com/embeddable-components/4.33/arcgis-embeddable-components.esm.js"></script>
 <!-- Add custom element to <body> of your page -->
