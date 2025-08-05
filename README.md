@@ -28,7 +28,7 @@ The entire internet is run on the back of HTML, which is just a coding language 
 - Limited space, especially as graphs get more datapoints.
 <br>
 
-<p style="text-align: center"><img src="/assets/photos/TehranReservoirsGIF.gif" width="700"></p>
+<p style="text-align: center"><img src="/assets/photos/TehranReservoirsGIF.gif" width="500"></p>
 
 GIFs are valuable for posting on social media, but clunky and frustrating in an article in a website.  
 
