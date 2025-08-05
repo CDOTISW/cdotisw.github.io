@@ -30,19 +30,19 @@ The entire internet is run on the back of HTML, which is just a coding language 
 
 <p style="text-align: center"><img src="/assets/photos/TehranReservoirsGIF.gif" width="500"></p>
 
-GIFs are valuable for posting on social media, but clunky and frustrating in an article in a website.  
+- GIFs are valuable for posting on social media, but clunky and frustrating in an article in a website.  
 
 <p style="text-align: center"><img src="/assets/photos/Picture4_strikegraph.png" width="600"></p>
 
-So many columns! Wouldn’t it be nice to be able to interact with each one? 
+- So many columns! Wouldn’t it be nice to be able to interact with each one? 
 
 <p style="text-align: center"><img src="/assets/photos/Picture5_spratly.png" width="600"></p>
 
-Not very helpful to readers to just get the names of obscure outposts in the South China Sea with no historical context. Could move a lot of routine background info from written updates into clickable pop-ups in the map.   
+- Not very helpful to readers to just get the names of obscure outposts in the South China Sea with no historical context. Could move a lot of routine background info from written updates into clickable pop-ups in the map.   
 
 ### How do HTML files add extra functionality? 
 
-Creates interactive elements that allow researchers to display more information as the user moves their mouse. 
+Create interactive elements that allow researchers to display more information as the user moves their mouse. 
 
 ### Graphs:
 This is an interactive scatter plot on Taiwanese legislators undergoing recall elections, where each point is labelled with name and district. This example highlights the following benefits:  
@@ -51,13 +51,13 @@ This is an interactive scatter plot on Taiwanese legislators undergoing recall e
 
 This is an interactive scatter plot on Taiwanese legislators undergoing recall elections, where each point is labelled with name and district. This example highlights the following benefits:  
 
-1. Context: Readers who want to find particular districts/legislators don’t have to dig through electoral data themselves to further investigate the info presented in this chart.  
+- Context: Readers who want to find particular districts/legislators don’t have to dig through electoral data themselves to further investigate the info presented in this chart.  
 
-2. Numerical labels: Hover text eliminates the need to compromise on numerical accuracy to avoid cluttering the graph. It’s a cleaner look. 
+- Numerical labels: Hover text eliminates the need to compromise on numerical accuracy to avoid cluttering the graph. It’s a cleaner look. 
 
-3. Reader engagement: Likely will also enhance user interaction and improve information retention. Readers are likely to spend more time playing with the data in an interactive graph compared to a static image.  
+- Reader engagement: Likely will also enhance user interaction and improve information retention. Readers are likely to spend more time playing with the data in an interactive graph compared to a static image.  
 
-4. Transformative analysis: We are able to present data in a more meaningful way through these methods, which enhances the depth of analysis readers take away from our work. This can improve ISW’s reputation and value.  
+- Transformative analysis: We are able to present data in a more meaningful way through these methods, which enhances the depth of analysis readers take away from our work. This can improve ISW’s reputation and value.  
 
 There are dozens of interactive graph options available that more effectively condense information compared to default options in Microsoft Excel. See more here: [https://r-graph-gallery.com/interactive-charts.html](https://r-graph-gallery.com/interactive-charts.html) 
 
