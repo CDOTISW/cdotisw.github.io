@@ -17,7 +17,7 @@
 
 ### What are HTML files good for? 
 
-The entire internet is run on the back of HTML, which is just a coding language designed to be displayed in a web browser. HTML files are **small** and enable researchers to create interactive graphics to enhance the reader’s understanding of complex topics.  
+The entire internet is run on the back of HTML, which is a coding language designed to be displayed in a web browser. HTML files are **small** and enable researchers to create interactive graphics to enhance the reader’s understanding of complex topics.  
 
 ### Drawbacks of relying solely on static graphics (the status quo): 
 
