@@ -7,7 +7,7 @@
 
 **Purpose/goals:** Be able to use HTML files in research publications to enhance the range of graphics we produce.   
 
-**[Use cases:](#UseCases)** Interactive graphics e.g. charts, maps, network analysis, and interactive imagery comparison sliders embedded directly in the website without having to open new tabs.
+**Use cases:** Interactive graphics e.g. charts, maps, network analysis, and interactive imagery comparison sliders embedded directly in the website without having to open new tabs.
   - [Graphs](#Graphs)
   - [Image Sliders](#Images)
   - [Interactive Maps](#Maps) 
