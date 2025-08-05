@@ -128,6 +128,29 @@ and enhancing written work with interactive maps right there as a part of the st
 <p style="text-align: center"><img src="/assets/photos/force_gen_example.png" width="400"></p>
 
 Instead, we could embed an interactive map below the body text, like so. You can pan and click around!
+<meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no">
+<style>
+  .container {
+   position: relative;
+   overflow: hidden;
+   padding-top: 56.25%;
+}
+.container iframe {
+   position: absolute;
+   top: 0;
+   left: 0;
+   width: 100%;
+   height: 100%;
+   border: 0;
+}
+</style>
+<div class="container">
+<iframe src="https://experience.arcgis.com/experience/4ef370f3db074c7bab9a364aa856e08c"></iframe>
+</div>
+
+
+
+
 <!-- Add script to the <head> of your page to load the embeddable map component -->
 <script type="module" src="https://js.arcgis.com/embeddable-components/4.33/arcgis-embeddable-components.esm.js"></script>
 <!-- Add custom element to <body> of your page -->
