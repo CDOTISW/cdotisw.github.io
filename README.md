@@ -4,7 +4,7 @@
 ## Embedding HTML to improve our product and help us tell stories more effectively
 
 <div style="border:2px solid #ccc; padding:1em; border-radius:8px; background:#f9f9f9; margin-bottom:1em;">
-  <strong>Proposal:</strong> HTML file hosting on ISW website. HTML Background.<br>
+  <strong>Proposal:</strong> HTML file hosting on ISW website. <br>
   <strong>Purpose/goals:</strong> Be able to use HTML files in research publications to enhance the range of graphics we produce.<br>
   <strong>Use cases:</strong> Interactive graphics e.g. charts, maps, network analysis, and interactive imagery comparison sliders embedded directly in the website without having to open new tabs.<br>
   - <u><a href="#Graphs" style="color:#000; text-decoration:none;">Graphs</a></u><br>
