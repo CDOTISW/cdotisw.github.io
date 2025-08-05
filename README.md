@@ -3,13 +3,18 @@
 ## Embedding HTML to improve our product and help us tell stories more effectively
 
 ### Overview
-**Proposal:** HTML file hosting on ISW website.  
+**Proposal:** HTML file hosting on ISW website. HTML Background. 
 
 **Purpose/goals:** Be able to use HTML files in research publications to enhance the range of graphics we produce.   
 
-**[Use cases:](#UseCases)** Interactive graphics e.g. charts, maps, network analysis, and interactive imagery comparison sliders embedded directly in the website without having to open new tabs.  
+**[Use cases:](#UseCases)** Interactive graphics e.g. charts, maps, network analysis, and interactive imagery comparison sliders embedded directly in the website without having to open new tabs.
+  - [Graphs](#Graphs)
+  - [Image Sliders](#Images)
+  - [Interactive Maps](#Maps) 
 
 **[Frequency of use:](Frequency)** Monthly at minimum for China team to host our monthly counts on events such as ADIZ incursions. Likely to have major projects at least once every few months that would greatly benefit from interactivity. Geoint would likely use an html embed on a weekly basis. 
+
+**[How do we implement?:](#Implementation)**
 
 **[Licensing details for Software:](#Licensing)** China team: R and RStudio are free open-source programs under the GNU General Public License. Full details at the end. 
 
@@ -44,7 +49,7 @@ The entire internet is run on the back of HTML, which is just a coding language 
 
 Create interactive elements that allow researchers to display more information as the user moves their mouse. 
 
-### Graphs:
+### <a id="Graphs"></a>Graphs:
 This is an interactive scatter plot on Taiwanese legislators undergoing recall elections, where each point is labelled with name and district. This example highlights the following benefits:  
 
 <iframe src="/assets/photos/legislativerecallscatter2d.html" width="750" height="500" style="border:0;" title="Legislative Recall Scatter Plot"></iframe>
@@ -61,7 +66,7 @@ This is an interactive scatter plot on Taiwanese legislators undergoing recall e
 
 There are dozens of interactive graph options available that more effectively condense information compared to default options in Microsoft Excel. See more here: [https://r-graph-gallery.com/interactive-charts.html](https://r-graph-gallery.com/interactive-charts.html) 
 
-### Interactive Image Sliders 
+### <a id="Images"></a>Interactive Image Sliders 
 
 Instead of relying on GIFs to compare before/after imagery, we can embed a small bit of HTML
 that allows readers to investigate at their own pace. This uses a small HTML script that displays these two images interactively.
@@ -169,7 +174,7 @@ maybe our website has a way to upload assets that can be called by embedded HTML
   </script>
 <p style="text-align:center;">Drag the slider to compare imagery of Fordow</p>
 
-### ArcGIS Interactive Maps
+### <a id="Maps"></a>ArcGIS Interactive Maps
 
 Arcgis Maps, which the GEOINT team uses every single day,
 are actually best displayed embedded in website using HTML! 
@@ -237,7 +242,7 @@ This type of product is simply impossible to meaningfully condense into a static
 
 Sample method to create network charts: [https://r-graph-gallery.com/network-interactive.html](https://r-graph-gallery.com/network-interactive.html)
 
-## Implementing HTML Logistics: 
+## <a id="Implementation"></a>Implementing HTML Logistics: 
 
 This is a reference website on the feature this proposal seeks permission to use: [Custon HTML block - Wordpress.com Support](https://wordpress.com/support/wordpress-editor/blocks/custom-html-block/)
 
