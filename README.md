@@ -12,7 +12,7 @@
   - <a href="#Maps" style="color:#000; text-decoration:underline;">Interactive Maps</a><br>
   <a href="#Frequency" style="color:#000; text-decoration:underline;"><strong>Frequency of use:</strong></a> Monthly at minimum for China team to host our monthly counts on events such as ADIZ incursions. Likely to have major projects at least once every few months that would greatly benefit from interactivity. Geoint would likely use an html embed on a weekly basis.<br>
   <a href="#Implementation" style="color:#000; text-decoration:underline;"><strong>How hard will implementation be?</strong></a><br>
-  <a href="#Licensing" style="color:#000; text-decoration:underline;"><strong>Licensing details for Software:</strong></a> China team: R and RStudio are free open-source programs under the GNU General Public License. Github is free to use, but probably requires our code to be public. Full details at the end.
+  <a href="#Licensing" style="color:#000; text-decoration:underline;"><strong>Licensing details for Software:</strong></a> China team: R and RStudio are free open-source programs under the GNU General Public License. Github is free to use, but probably requires our code to be public. Full details in the section.
 </div>
 
 ### What are HTML files good for? 
@@ -249,7 +249,7 @@ This is a reference website on the feature this proposal seeks permission to use
 
 ### Steps to use the Custom HTML block: 
 1. Upload the HTML file into some online hosting software. 
-  - China team has successfully used GitHub, which is a free platform that hosts open source projects. GitHub has unlimited storage for public repos. A potential drawback to consider is that the HTML code we host on GitHub and our account history is available to the public. All of the data and coding methods we use is open-source anyways, so the only concern here is from an organizational standpoint on allowing the public to access code from ISW researchers.  
+  - You are reading this page right now through the powers of Github, which is a free platform that hosts open source projects. GitHub has unlimited storage for public repos. A potential drawback to consider is that the HTML code we host on GitHub and our account history is available to the public. All of the data and coding methods we use is open-source anyways, so the only concern here is from an organizational standpoint on allowing the public to access code from ISW researchers. This point is reiterated in the [Licensing](#Licensing-details) section.  
 
 2. Use the HTML code block feature in WordPress to embed it into the website.  
   - Karina has successfully used the code block on the AEI website and it takes about a minute to embed after one is familiar with how to do it.  
