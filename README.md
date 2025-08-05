@@ -7,12 +7,12 @@
   <strong>Proposal:</strong> HTML file hosting on ISW website. HTML Background.<br>
   <strong>Purpose/goals:</strong> Be able to use HTML files in research publications to enhance the range of graphics we produce.<br>
   <strong>Use cases:</strong> Interactive graphics e.g. charts, maps, network analysis, and interactive imagery comparison sliders embedded directly in the website without having to open new tabs.<br>
-  - <a href="#Graphs" style="color:#000; text-decoration:none;">Graphs</a><br>
-  - <a href="#Images" style="color:#000; text-decoration:none;">Image Sliders</a><br>
-  - <a href="#Maps" style="color:#000; text-decoration:none;">Interactive Maps</a><br>
-  <a href="#Maps" style="color:#000; text-decoration:none;"><strong>Frequency of use:</strong></a> Monthly at minimum for China team to host our monthly counts on events such as ADIZ incursions. Likely to have major projects at least once every few months that would greatly benefit from interactivity. Geoint would likely use an html embed on a weekly basis.<br>
-  <a href="#Implementation" style="color:#000; text-decoration:none;"><strong>How do we implement?:</strong></a><br>
-  <a href="#Licensing" style="color:#000; text-decoration:none;"><strong>Licensing details for Software:</strong></a> China team: R and RStudio are free open-source programs under the GNU General Public License. Github is free to use, but probably requires our code to be public. Full details at the end.
+  - <u><a href="#Graphs" style="color:#000; text-decoration:none;">Graphs</a></u>u><br>
+  - <u><a href="#Images" style="color:#000; text-decoration:none;">Image Sliders</a></u><br>
+  - <u><a href="#Maps" style="color:#000; text-decoration:none;">Interactive Maps</a></u><br>
+  <u><a href="#Maps" style="color:#000; text-decoration:none;"><strong>Frequency of use:</strong></u></a> Monthly at minimum for China team to host our monthly counts on events such as ADIZ incursions. Likely to have major projects at least once every few months that would greatly benefit from interactivity. Geoint would likely use an html embed on a weekly basis.<br>
+  <u><a href="#Implementation" style="color:#000; text-decoration:none;"><strong>How do we implement?:</strong></u></a><br>
+  <u><a href="#Licensing" style="color:#000; text-decoration:none;"><strong>Licensing details for Software:</strong></u></a> China team: R and RStudio are free open-source programs under the GNU General Public License. Github is free to use, but probably requires our code to be public. Full details at the end.
 </div>
 
 ### What are HTML files good for? 
