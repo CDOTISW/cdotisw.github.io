@@ -11,7 +11,7 @@
   - <a href="#Images" style="color:#000; text-decoration:underline;">Image Sliders</a><br>
   - <a href="#Maps" style="color:#000; text-decoration:underline;">Interactive Maps</a><br>
   <a href="#Frequency" style="color:#000; text-decoration:underline;"><strong>Frequency of use:</strong></a> Monthly at minimum for China team to host our monthly counts on events such as ADIZ incursions. Likely to have major projects at least once every few months that would greatly benefit from interactivity. Geoint would likely use an html embed on a weekly basis.<br>
-  <a href="#Implementation" style="color:#000; text-decoration:underline;"><strong>How do we implement?:</strong></a><br>
+  <a href="#Implementation" style="color:#000; text-decoration:underline;"><strong>How hard will implementation be?</strong></a><br>
   <a href="#Licensing" style="color:#000; text-decoration:underline;"><strong>Licensing details for Software:</strong></a> China team: R and RStudio are free open-source programs under the GNU General Public License. Github is free to use, but probably requires our code to be public. Full details at the end.
 </div>
 
