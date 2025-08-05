@@ -148,7 +148,9 @@ Instead, we could embed an interactive map below the body text, like so. You can
 <iframe src="https://experience.arcgis.com/experience/4ef370f3db074c7bab9a364aa856e08c"></iframe>
 </div>
 
-
+<br>
+Or like this! This loads faster but doesn't interact with the pop-ups as well as the previous map.
+<br>
 
 
 <!-- Add script to the <head> of your page to load the embeddable map component -->
