@@ -1,6 +1,6 @@
 *Demo*
 
-## How can embedded HTML improve our product and tell stories more effectively?
+## How embedded HTML can improve our product and tell stories more effectively:
 
 ### 1. Interactive Imagery Sliders
 
