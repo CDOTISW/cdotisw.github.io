@@ -1,7 +1,7 @@
 <a id="top"></a>
 *Demo*
 
-## Embedding HTML to improve our product and help us tell stories more effectively
+## HTML to improve our product and tell stories more effectively
 
 <div style="border:2px solid #ccc; padding:1em; border-radius:8px; background:#f9f9f9; margin-bottom:1em;">
   <strong>Proposal:</strong> HTML file hosting on ISW website. <br>
