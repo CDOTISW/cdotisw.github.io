@@ -140,6 +140,7 @@ Instead, we could embed an interactive map below the body text, like so: (you ca
   portal-url="https://understandingwar.maps.arcgis.com">
 </arcgis-embedded-map>
 
+
 The same could be done in place of the maps showing locations of childrens camps
 in [Lina's occupation update](https://www.understandingwar.org/backgrounder/russian-occupation-update-may-15-2025)
 as well.  
