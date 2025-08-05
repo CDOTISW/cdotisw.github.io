@@ -133,7 +133,7 @@ Instead, we could embed an interactive map below the body text, like so:
 <script type="module" src="https://js.arcgis.com/embeddable-components/4.33/arcgis-embeddable-components.esm.js"></script>
 <!-- Add custom element to <body> of your page -->
 <arcgis-embedded-map
-  style="height:600px;width:700px;"
+  style="height:600px;width:900px;"
   item-id="fd6b18ab569a420b9b4d0143a50bd818"
   theme="light"
   legend-enabled
