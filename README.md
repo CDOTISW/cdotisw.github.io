@@ -150,12 +150,12 @@ Or like this! This loads faster but doesn't interact with the pop-ups as well as
 <!-- Add custom element to <body> of your page -->
 <div style="text-align: center;">
   <arcgis-embedded-map
-    style="height:450px;width:800px;"
+    style="height:450px;width:750px;"
     item-id="fd6b18ab569a420b9b4d0143a50bd818"
     theme="light"
     legend-enabled
     center="91.65618642692036,65.19628797771574"
-    scale="32601084.83770047"
+    scale="33001084.83770047"
     portal-url="https://understandingwar.maps.arcgis.com">
   </arcgis-embedded-map>
 </div>
