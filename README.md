@@ -249,7 +249,7 @@ This is a reference website on the feature this proposal seeks permission to use
 
 ### Steps to use the Custom HTML block: 
 1. Upload the HTML file into some online hosting software. 
-  - You are reading this page right now through the powers of Github, which is a free platform that hosts open source projects. GitHub has unlimited storage for public repos. A potential drawback to consider is that the HTML code we host on GitHub and our account history is available to the public. All of the data and coding methods we use is open-source anyways, so the only concern here is from an organizational standpoint on allowing the public to access code from ISW researchers. This point is reiterated in the [Licensing](#Licensing-details) section.  
+  - You are reading this page right now through the powers of Github, which is a free platform that hosts open source projects. GitHub has unlimited storage for public repos. A potential drawback to consider is that the HTML code we host on GitHub and our account history is available to the public. All of the data and coding methods we use is open-source anyways, so the only concern here is from an organizational standpoint on allowing the public to access code from ISW researchers. This point is reiterated in the [Licensing](#Licensing) section.  
 
 2. Use the HTML code block feature in WordPress to embed it into the website.  
   - Karina has successfully used the code block on the AEI website and it takes about a minute to embed after one is familiar with how to do it.  
