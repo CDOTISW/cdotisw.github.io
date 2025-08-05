@@ -1,3 +1,4 @@
+<a id="top"></a>
 *Demo*
 
 ## Embedding HTML to improve our product and help us tell stories more effectively
@@ -41,6 +42,8 @@ The entire internet is run on the back of HTML, which is just a coding language 
 
 - Not very helpful to readers to just get the names of obscure outposts in the South China Sea with no historical context. Could move a lot of routine background info from written updates into clickable pop-ups in the map.   
 
+<a href="#top" style="display:inline-block; padding:8px 16px; background:#eee; border-radius:6px; border:1px solid #ccc; text-decoration:none; color:#333; font-weight:bold;">↑ Return to Top</a>
+
 ### <a id="UseCases"></a>How do HTML files add extra functionality? 
 
 Create interactive elements that allow researchers to display more information as the user moves their mouse. 
@@ -61,6 +64,8 @@ This is an interactive scatter plot on Taiwanese legislators undergoing recall e
 - Transformative analysis: We are able to present data in a more meaningful way through these methods, which enhances the depth of analysis readers take away from our work. This can improve ISW’s reputation and value.  
 
 There are dozens of interactive graph options available that more effectively condense information compared to default options in Microsoft Excel. See more here: [https://r-graph-gallery.com/interactive-charts.html](https://r-graph-gallery.com/interactive-charts.html) 
+
+<a href="#top" style="display:inline-block; padding:8px 16px; background:#eee; border-radius:6px; border:1px solid #ccc; text-decoration:none; color:#333; font-weight:bold;">↑ Return to Top</a>
 
 ### <a id="Images"></a>Interactive Image Sliders 
 
@@ -170,6 +175,8 @@ maybe our website has a way to upload assets that can be called by embedded HTML
   </script>
 <p style="text-align:center;">Drag the slider to compare imagery of Fordow</p>
 
+<a href="#top" style="display:inline-block; padding:8px 16px; background:#eee; border-radius:6px; border:1px solid #ccc; text-decoration:none; color:#333; font-weight:bold;">↑ Return to Top</a>
+
 ### <a id="Maps"></a>ArcGIS Interactive Maps
 
 Arcgis Maps, which the GEOINT team uses every single day,
@@ -226,7 +233,7 @@ Beyond Arcgis, interactive graphics can also be constructed in R.
 
 Taiwanese legislative recalls could have potentially had geographic patterns, so mapping out the datapoints and color-coding them is valuable. Taiwan’s population distribution makes it extremely difficult to construct a visually pleasing and informative static map.
 
-
+<p style="text-align: center"><img src="/assets/photos/Picture6_static_taiwan.png" width="600"></p>
 
 Contrast the interactive version with this static version. 
 
@@ -237,6 +244,8 @@ China team is also planning to create an interactive network where readers can e
 This type of product is simply impossible to meaningfully condense into a static form. This is a forthcoming research product that will be used for internal reference at minimum, but it would be a shame if we couldn’t publish it due to website constraints.
 
 Sample method to create network charts: [https://r-graph-gallery.com/network-interactive.html](https://r-graph-gallery.com/network-interactive.html)
+
+<a href="#top" style="display:inline-block; padding:8px 16px; background:#eee; border-radius:6px; border:1px solid #ccc; text-decoration:none; color:#333; font-weight:bold;">↑ Return to Top</a>
 
 ## <a id="Implementation"></a>Implementing HTML Logistics: 
 
@@ -263,6 +272,8 @@ Karina created an interactive map integrated with the China Team update in the w
 2. Free and no new installations. GitHub is free and we already have the WordPress HTML code editor feature on our new site. 
 3. Displays interactive features without having to open a new tab. This is unlike our current ArcGIS maps. Otherwise, most readers probably aren’t going to bother clicking. 
 4. Low website resource usage. HTML files aren’t particularly complicated and they load quickly. **It’s faster than booting up the ArcGIS interactive maps.**
+
+<a href="#top" style="display:inline-block; padding:8px 16px; background:#eee; border-radius:6px; border:1px solid #ccc; text-decoration:none; color:#333; font-weight:bold;">↑ Return to Top</a>
 
 ### <a id="Frequency"></a> Proposed usage frequency: 
 - Monthly at minimum for China team ADIZ incursion updates. Karina plans to convert this graph into an interactive style that displays more nicely. This would also open the door to more creative visualizations as we are currently severely constrained by our website capabilities. Taiwanese legislative recalls are still ongoing and there may be further room for analysis with interactive maps. China team is also looking to publish an interactive network of purged PLA officials in the coming months.  
