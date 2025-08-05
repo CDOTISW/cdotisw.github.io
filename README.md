@@ -130,15 +130,17 @@ Instead, we could embed an interactive map below the body text, like so: (you ca
 <!-- Add script to the <head> of your page to load the embeddable map component -->
 <script type="module" src="https://js.arcgis.com/embeddable-components/4.33/arcgis-embeddable-components.esm.js"></script>
 <!-- Add custom element to <body> of your page -->
-<arcgis-embedded-map
-  style="height:600px;width:900px;"
-  item-id="fd6b18ab569a420b9b4d0143a50bd818"
-  theme="light"
-  legend-enabled
-  center="91.65618642692036,65.19628797771574"
-  scale="32601084.83770047"
-  portal-url="https://understandingwar.maps.arcgis.com">
-</arcgis-embedded-map>
+<div style="text-align: center;">
+  <arcgis-embedded-map
+    style="height:600px;width:900px;"
+    item-id="fd6b18ab569a420b9b4d0143a50bd818"
+    theme="light"
+    legend-enabled
+    center="91.65618642692036,65.19628797771574"
+    scale="32601084.83770047"
+    portal-url="https://understandingwar.maps.arcgis.com">
+  </arcgis-embedded-map>
+</div>
 
 
 
