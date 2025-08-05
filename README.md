@@ -138,7 +138,7 @@ Instead, we could embed an interactive map below the body text, like so. You can
     theme="light"
     legend-enabled
     center="91.65618642692036,65.19628797771574"
-    scale="31001084.83770047"
+    scale="32001084.83770047"
     portal-url="https://understandingwar.maps.arcgis.com">
   </arcgis-embedded-map>
 </div>
