@@ -2,18 +2,16 @@
 
 ## Embedding HTML to improve our product and help us tell stories more effectively
 
-<div style="border:2px solid #ccc; padding:1em; border-radius:8px; background:#f9f9f9; margin-bottom:1em;">
-  <strong>Overview</strong><br>
-  <strong>Proposal:</strong> HTML file hosting on ISW website. HTML Background.<br>
-  <strong>Purpose/goals:</strong> Be able to use HTML files in research publications to enhance the range of graphics we produce.<br>
-  <strong>Use cases:</strong> Interactive graphics e.g. charts, maps, network analysis, and interactive imagery comparison sliders embedded directly in the website without having to open new tabs.<br>
-  - <a href="#Graphs">Graphs</a><br>
-  - <a href="#Images">Image Sliders</a><br>
-  - <a href="#Maps">Interactive Maps</a><br>
-  <strong>Frequency of use:</strong> Monthly at minimum for China team to host our monthly counts on events such as ADIZ incursions. Likely to have major projects at least once every few months that would greatly benefit from interactivity. Geoint would likely use an html embed on a weekly basis.<br>
-  <strong>How do we implement?:</strong><br>
-  <strong>Licensing details for Software:</strong> China team: R and RStudio are free open-source programs under the GNU General Public License. Full details at the end.
-</div>
+### Overview
+**Proposal:** HTML file hosting on ISW website. HTML Background. 
+**Purpose/goals:** Be able to use HTML files in research publications to enhance the range of graphics we produce.   
+**Use cases:** Interactive graphics e.g. charts, maps, network analysis, and interactive imagery comparison sliders embedded directly in the website without having to open new tabs.
+  - [Graphs](#Graphs)
+  - [Image Sliders](#Images)
+  - [Interactive Maps](#Maps)
+**[Frequency of use:](#Frequency)** Monthly at minimum for China team to host our monthly counts on events such as ADIZ incursions. Likely to have major projects at least once every few months that would greatly benefit from interactivity. Geoint would likely use an html embed on a weekly basis.
+**[How do we implement?:](#Implementation)**
+**[Licensing details for Software:](#Licensing)** China team: R and RStudio are free open-source programs under the GNU General Public License. Full details at the end. 
 
 ### What are HTML files good for? 
 
