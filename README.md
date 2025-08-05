@@ -9,7 +9,7 @@
 
 **[Use cases:](#UseCases)** Interactive graphics e.g. charts, maps, network analysis, and interactive imagery comparison sliders embedded directly in the website without having to open new tabs.  
 
-**Frequency of use:** Monthly at minimum for China team to host our monthly counts on events such as ADIZ incursions. Likely to have major projects at least once every few months that would greatly benefit from interactivity. Geoint would likely use an html embed on a weekly basis. 
+**[Frequency of use:](Frequency)** Monthly at minimum for China team to host our monthly counts on events such as ADIZ incursions. Likely to have major projects at least once every few months that would greatly benefit from interactivity. Geoint would likely use an html embed on a weekly basis. 
 
 **[Licensing details for Software:](#Licensing)** China team: R and RStudio are free open-source programs under the GNU General Public License. Full details at the end. 
 
@@ -264,7 +264,7 @@ Karina created an interactive map integrated with the China Team update in the w
 3. Displays interactive features without having to open a new tab. This is unlike our current ArcGIS maps. Otherwise, most readers probably aren’t going to bother clicking. 
 4. Low website resource usage. HTML files aren’t particularly complicated and they load quickly. **It’s faster than booting up the ArcGIS interactive maps.**
 
-### Proposed usage frequency: 
+### <a id="Frequency"></a> Proposed usage frequency: 
 - Monthly at minimum for China team ADIZ incursion updates. Karina plans to convert this graph into an interactive style that displays more nicely. This would also open the door to more creative visualizations as we are currently severely constrained by our website capabilities. Taiwanese legislative recalls are still ongoing and there may be further room for analysis with interactive maps. China team is also looking to publish an interactive network of purged PLA officials in the coming months.  
 - GEOINT would use these features monthly at a minimum, and would mostly use it to supplement less-frequent publications like the occupation update, as opposed to the daily Russian update. As more staff are trained and more ideas are developed, the frequency could increase. 
 
@@ -275,7 +275,7 @@ Karina created an interactive map integrated with the China Team update in the w
 - Upgrade existing routine graphics to take advantage of interactive capabilities.  
 - Begin brainstorming new graphics and train staff or interns on these newfound capabilities. 
 
-### Licensing details: 
+### <a id="Licensing"></a>Licensing details: 
 R and Rstudio (used by Karina): 
 
 _This software is distributed under the terms of the GNU General Public License, either Version 2, June 1991 or Version 3, June 2007._ 
