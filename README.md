@@ -145,4 +145,6 @@ Instead, we could embed an interactive map below the body text, like so:
  The same could be done in place of the maps showing locations of childrens camps
 in [Lina's occupation update](https://www.understandingwar.org/backgrounder/russian-occupation-update-may-15-2025)
 as well.  
+
+
 <img src="/assets/photos/occ_example.png" alt="Occupation UPdate Example" style="max-width:100%; margin: 20px 0;">
