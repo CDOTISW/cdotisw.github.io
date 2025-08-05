@@ -21,21 +21,21 @@ The entire internet is run on the back of HTML, which is just a coding language 
 
 Difficult to add details without making the image too dense.
 
-<p style="text-align: center"><img src="/assets/photos/Picture1_graph.png" width="400"></p>
+<p style="text-align: center"><img src="/assets/photos/Picture1_graph.png" width="500"></p>
 
 Limited space, especially as graphs get more datapoints.
 
-<p style="text-align: center"><img src="/assets/photos/Picture2_graph.png" width="400"></p>
+<p style="text-align: center"><img src="/assets/photos/Picture2_graph.png" width="500"></p>
 
-<p style="text-align: center"><img src="/assets/photos/Picture3_reservoir_GIF.png" width="400"></p>
+<p style="text-align: center"><img src="/assets/photos/Picture3_reservoir_GIF.png" width="500"></p>
 
 GIFs don't play in Word, but you get the idea. Valuable for posting on social media, but clunky and frustrating in an article in a website.  
 
-<p style="text-align: center"><img src="/assets/photos/Picture4_strikegraph.png" width="400"></p>
+<p style="text-align: center"><img src="/assets/photos/Picture4_strikegraph.png" width="500"></p>
 
 So many columns! Wouldn’t it be nice to be able to interact with each one? 
 
-<p style="text-align: center"><img src="/assets/photos/Picture5_spratly.png" width="400"></p>
+<p style="text-align: center"><img src="/assets/photos/Picture5_spratly.png" width="500"></p>
 
 Not very helpful to readers to just get the names of obscure outposts in the South China Sea with no historical context. Could move a lot of routine background info from written updates into clickable pop-ups in the map.   
 
@@ -45,7 +45,7 @@ Creates interactive elements that allow researchers to display more information 
 
 ### Graphs:
 
-<iframe src="/assets/photos/interactive_map%2012.html" width="900" height="500" style="border:0;" title="Interactive Map"></iframe>
+<iframe src="/assets/photos/interactive_map%2012.html" width="600" height="500" style="border:0;" title="Interactive Map"></iframe>
 
 This is an interactive scatter plot on Taiwanese legislators undergoing recall elections, where each point is labelled with name and district. This example highlights the following benefits:  
 
