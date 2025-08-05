@@ -129,6 +129,18 @@ and enhancing written work with interactive maps right there as a part of the st
 
 Instead, we could embed an interactive map below the body text, like so. You can pan and click around!
 
+<div style="max-width:900px; margin: 0 auto;">
+  <iframe
+    src="https://experience.arcgis.com/experience/4ef370f3db074c7bab9a364aa856e08c"
+    width="900"
+    height="450"
+    style="border:0; width:100%; max-width:900px;"
+    allowfullscreen
+    loading="lazy"
+    title="ArcGIS Interactive Map">
+  </iframe>
+</div>
+
 <br>
 Or like this! This loads faster but doesn't interact with the pop-ups as well as the previous map.
 <br>
