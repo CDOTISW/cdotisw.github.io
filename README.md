@@ -189,7 +189,7 @@ At these links, you will notice the URL is actually an ESRI website, which means
 Instead of using these Arcgis pages we can embed these maps directly in our website, keeping traffic on our page
 and enhancing written work with interactive maps right there as a part of the story, not as a link to a separate page.
 
-**For example,** we have included maps showing dollars spent by oblast as a part of the [force generation update.](https://www.understandingwar.org/backgrounder/russian-force-generation-and-technological-adaptations-update-may-7-2025)
+For example, we have included maps showing dollars spent by oblast as a part of the [force generation update.](https://www.understandingwar.org/backgrounder/russian-force-generation-and-technological-adaptations-update-may-7-2025)
 
 <p style="text-align: center"><img src="/assets/photos/force_gen_example.png" width="400"></p>
 
