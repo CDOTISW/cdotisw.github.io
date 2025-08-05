@@ -115,19 +115,19 @@ aybe our website has a way to upload assets that can be called by embedded HTML?
 Karina has shown how maps made with other software, like R, can be embedded using html.
 But Arcgis Maps, which the GEOINT team uses every single day,
 are actually best displayed embedded in website using HTML (an embed code)! 
-Previously, to publish a map we were constrained to either static maps or interactive maps, which are run
-through an arcgis storymap page. Our most popular are probably the [Ukraine Interactive map](https://storymaps.arcgis.com/stories/36a7f6a6f5a9448496de641cf64bd375)
+Previously, if we wanted to include a map we were constrained to either static maps or linking to an interactive map run through an arcgis storymap page. 
+Our most popular two are the [Ukraine Interactive map](https://storymaps.arcgis.com/stories/36a7f6a6f5a9448496de641cf64bd375)
 and [Syria interactive map](https://storymaps.arcgis.com/stories/1933cb1d315f4db3a4f4dcc5ef40753a).
-In these pages, you will notice the URL is actually an ESRI website, which means the reader is now stuck outside our site.
+At these links, you will notice the URL is actually an ESRI website, which means the reader is now stuck outside our site.
 
-Instead of using these Arcgis pages, we should embed these maps directly in our website, keeping traffic on our page
-and enhance written work with interactive maps right there as a part of the story, not as a link to a separate page.
+Instead of using these Arcgis pages we should embed these maps directly in our website, keeping traffic on our page
+and enhancing written work with interactive maps right there as a part of the story, not as a link to a separate page.
 
 **For example,** we have included maps showing dollars spent by oblast as a part of the [force generation update.](https://www.understandingwar.org/backgrounder/russian-force-generation-and-technological-adaptations-update-may-7-2025)
 
 <p style="text-align: center"><img src="/assets/photos/force_gen_example.png" width="400"></p>
 
-Instead, we could embed an interactive map below the body text, like so: (you can pan and click around!)
+Instead, we could embed an interactive map below the body text, like so. You can pan and click around!
 <!-- Add script to the <head> of your page to load the embeddable map component -->
 <script type="module" src="https://js.arcgis.com/embeddable-components/4.33/arcgis-embeddable-components.esm.js"></script>
 <!-- Add custom element to <body> of your page -->
@@ -142,9 +142,7 @@ Instead, we could embed an interactive map below the body text, like so: (you ca
     portal-url="https://understandingwar.maps.arcgis.com">
   </arcgis-embedded-map>
 </div>
-
-
-
+<br>
 The same could be done in place of the static map showing locations of childrens camps
 in [Lina's occupation update](https://www.understandingwar.org/backgrounder/russian-occupation-update-may-15-2025)
 as well, shown below.
