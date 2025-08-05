@@ -133,7 +133,7 @@ Instead, we could embed an interactive map below the body text, like so. You can
   .container {
    position: relative;
    overflow: hidden;
-   padding-top: 56.25%;
+   padding-top: 40%;
 }
 .container iframe {
    position: absolute;
