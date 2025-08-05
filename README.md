@@ -1,4 +1,4 @@
-Demo
+*Demo*
 
 ## How can embedded HTML improve our product and tell stories more effectively?
 
