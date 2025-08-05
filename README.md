@@ -94,7 +94,7 @@ Maybe our website has a way to upload assets that can be called by embedded HTML
     <img id="topImage" src="https://imgur.com/RqvGALd.jpeg" alt="Top Image" style="opacity: 1;">
     <div class="overlay-slider">
   <!--    <label for="opacitySlider">Adjust Top Image Opacity</label> -->
-      <input type="range" id="opacitySlider" min="0" max="100" value="50">
+      <input type="range" id="opacitySlider" min="0" max="100" value="0">
     </div>
   </div>
 
@@ -107,6 +107,7 @@ Maybe our website has a way to upload assets that can be called by embedded HTML
       topImage.style.opacity = opacityValue;
     });
   </script>
+Drag the slider to compare imagery of Fordow.
 
 ### 2. ArcGIS Interactive Maps
 
