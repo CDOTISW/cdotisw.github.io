@@ -1086,7 +1086,8 @@ HTMLWidgets.widget({
     // if no plot exists yet, create one with a particular configuration
     if (!instance.plotly) {
       
-      var plot = Plotly.newPlot(graphDiv, x);
+      var config = {scrollZoom: false, displayModeBar: false, staticPlot: false};
+      var plot = Plotly.newPlot(graphDiv, x, undefined, config);
       instance.plotly = true;
       
     } else if (x.layout.transition) {
