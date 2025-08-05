@@ -2,16 +2,16 @@
 
 ## Embedding HTML to improve our product and help us tell stories more effectively
 
-> ### Overview
-> **Proposal:** HTML file hosting on ISW website. HTML Background. 
-> **Purpose/goals:** Be able to use HTML files in research publications to enhance the range of graphics we produce.   
-> **Use cases:** Interactive graphics e.g. charts, maps, network analysis, and interactive imagery comparison sliders embedded directly in the website without having to open new tabs.
->   - [Graphs](#Graphs)
->   - [Image Sliders](#Images)
->   - [Interactive Maps](#Maps)
-> **[Frequency of use:](#Frequency)** Monthly at minimum for China team to host our monthly counts on events such as ADIZ incursions. Likely to have major projects at least once every few months that would greatly benefit from interactivity. Geoint would likely use an html embed on a weekly basis.
-> **[How do we implement?:](#Implementation)**
-> **[Licensing details for Software:](#Licensing)** China team: R and RStudio are free open-source programs under the GNU General Public License. Full details at the end. 
+### Overview
+**Proposal:** HTML file hosting on ISW website. HTML Background. 
+**Purpose/goals:** Be able to use HTML files in research publications to enhance the range of graphics we produce.   
+**Use cases:** Interactive graphics e.g. charts, maps, network analysis, and interactive imagery comparison sliders embedded directly in the website without having to open new tabs.
+  - [Graphs](#Graphs)
+  - [Image Sliders](#Images)
+  - [Interactive Maps](#Maps)
+**[Frequency of use:](#Frequency)** Monthly at minimum for China team to host our monthly counts on events such as ADIZ incursions. Likely to have major projects at least once every few months that would greatly benefit from interactivity. Geoint would likely use an html embed on a weekly basis.
+**[How do we implement?:](#Implementation)**
+**[Licensing details for Software:](#Licensing)** China team: R and RStudio are free open-source programs under the GNU General Public License. Full details at the end. 
 
 ### What are HTML files good for? 
 
