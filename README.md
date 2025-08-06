@@ -228,7 +228,7 @@ Beyond Arcgis, interactive graphics can also be constructed in R.
 
 Taiwanese legislative recalls could have potentially had geographic patterns, so mapping out the datapoints and color-coding them is valuable. Taiwan’s population distribution makes it extremely difficult to construct a visually pleasing and informative static map.
 
-<p style="text-align: center"><img src="/assets/photos/Picture6_static_taiwan.png" width="600"></p>
+<p style="text-align: center"><img src="/assets/photos/Picture6_static_taiwan.png" width="400"></p>
 
 Contrast the interactive version with this static version. 
 
