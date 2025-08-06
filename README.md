@@ -12,7 +12,7 @@
   - <a href="#Maps" style="color:#000; text-decoration:underline;">Interactive Maps</a><br>
   <a href="#Frequency" style="color:#000; text-decoration:underline;"><strong>Frequency of use:</strong></a> Monthly at minimum for China team to host our monthly counts on events such as ADIZ incursions. Likely to have major projects at least once every few months that would greatly benefit from interactivity. Geoint would likely use an html embed on a weekly basis.<br>
   <a href="#Implementation" style="color:#000; text-decoration:underline;"><strong>How hard will implementation be?</strong></a> The new ISW website already has a built-in tool to embed HTML files. No new software downloads, website features, or services needed.<br>
-  <a href="#Licensing" style="color:#000; text-decoration:underline;"><strong>Licensing details for Software:</strong></a> China team: R and RStudio are free open-source programs under the GNU General Public License. Github is free to use, but probably requires our code to be public. Full details in the section.
+  <a href="#Licensing" style="color:#000; text-decoration:underline;"><strong>Licensing details for Software:</strong></a> China team: R and RStudio are free open-source programs under the GNU General Public License. GitHub is free to use, but probably requires our code to be public. Full details in the section.
 </div>
 
 ### What are HTML files good for? 
@@ -174,14 +174,14 @@ maybe our website has a way to upload assets that can be called by embedded HTML
 
 ### <a id="Maps"></a>ArcGIS Interactive Maps
 
-Arcgis Maps, which the GEOINT team uses every single day,
+ArcGIS Maps, which the GEOINT team uses every single day,
 are actually best displayed embedded in website using HTML! 
-Previously, if we wanted to include a map we were constrained to either static maps or linking to an interactive map run through an arcgis storymap page. 
+Previously, if we wanted to include a map we were constrained to either static maps or linking to an interactive map run through an ArcGIS storymap page. 
 Our most popular two are the [Ukraine Interactive map](https://storymaps.arcgis.com/stories/36a7f6a6f5a9448496de641cf64bd375)
 and [Syria interactive map](https://storymaps.arcgis.com/stories/1933cb1d315f4db3a4f4dcc5ef40753a).
 At these links, you will notice the URL is actually an ESRI website, which means the reader is now stuck outside our site.
 
-Instead of using these Arcgis pages we can embed these maps directly in our website, keeping traffic on our page
+Instead of using these ArcGIS pages we can embed these maps directly in our website, keeping traffic on our page
 and enhancing written work with interactive maps right there as a part of the story, not as a link to a separate page.
 
 For example, we have included maps showing dollars spent by oblast as a part of the [force generation update.](https://www.understandingwar.org/backgrounder/russian-force-generation-and-technological-adaptations-update-may-7-2025)
@@ -222,7 +222,7 @@ Or like this! This loads faster but doesn't interact with the pop-ups as well as
 </div>
 <br>
 
-Beyond Arcgis, interactive graphics can also be constructed in R.
+Beyond ArcGIS, interactive graphics can also be constructed in R.
 
 <iframe src="/assets/photos/interactive_map12.html" width="750" height="500" style="border:0;" title="Interactive Map"></iframe>
 
@@ -250,7 +250,7 @@ This is a reference website on the feature this proposal seeks permission to use
 
 ### Steps to use the Custom HTML block: 
 1. Upload the HTML file into some online hosting software. 
-  - You are reading this page right now through the powers of Github, which is a free platform that hosts open source projects. GitHub has unlimited storage for public projects. A potential drawback to consider is that the HTML code we host on GitHub and our account history is available to the public. All of the data and coding methods we use is open-source anyways, so the only concern here is from an organizational standpoint on allowing the public to access code from ISW researchers. This point is reiterated in the [Licensing](#Licensing) section.  
+  - You are reading this page right now through the powers of GitHub, which is a free platform that hosts open source projects. GitHub has unlimited storage for public projects. A potential drawback to consider is that the HTML code we host on GitHub and our account history is available to the public. All of the data and coding methods we use is open-source anyways, so the only concern here is from an organizational standpoint on allowing the public to access code from ISW researchers. This point is reiterated in the [Licensing](#Licensing) section.  
 
 2. Use the HTML code block feature in WordPress to embed it into the website.  
   - Karina has successfully used the code block on the AEI website and it takes about a minute to embed after one is familiar with how to do it.  
@@ -298,9 +298,9 @@ _Version 3 of the license can be displayed by RShowDoc("LGPL-3")._
 
 _'Share and Enjoy.'_
 
-__Github__
+__GitHub__
 
-Github is [free for organizations](https://docs.github.com/en/get-started/learning-about-github/githubs-plans#github-free-for-organizations), and comes with:
+GitHub is [free for organizations](https://docs.github.com/en/get-started/learning-about-github/githubs-plans#github-free-for-organizations), and comes with:
 - Deployment protection rules for public repositories
 - Two-factor authentication enforcement
 - 500 MB GitHub Packages storage
@@ -311,7 +311,7 @@ Github is [free for organizations](https://docs.github.com/en/get-started/learni
   - GitHub Pages in public repositories
 - Team access controls for managing groups
 
-Github repositories (folders where code is stored) [can be private](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories#about-repository-visibility),
+GitHub repositories (folders where code is stored) [can be private](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories#about-repository-visibility),
 which would prevent anyone stealing Karina's cool graphs (or the data behind them). 
 Depending on how we are going to deploy HTML to the website, some code might have to be public so that it is visible to others.
 This is something we can solve as we test the best use practices with the website. 
