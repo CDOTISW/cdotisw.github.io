@@ -42,8 +42,6 @@ The entire internet is run on the back of HTML, which is a coding language desig
 
 - Not very helpful to readers to just get the names of obscure outposts in the South China Sea with no historical context. Could move a lot of routine background info from written updates into clickable pop-ups in the map.   
 
-<a href="#top" style="display:inline-block; padding:8px 16px; background:#eee; border-radius:6px; border:1px solid #ccc; text-decoration:none; color:#333; font-weight:bold;">↑ Return to Top</a>
-
 ### <a id="UseCases"></a>How do HTML files add extra functionality? 
 
 They allow us to create interactive elements! 
