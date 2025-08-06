@@ -21,7 +21,7 @@ The entire internet is run on the back of HTML, which is a coding language desig
 
 ### Drawbacks of relying solely on static graphics (the status quo): 
 
-<p style="text-align: center"><img src="/assets/photos/Picture1_graph.png" width="600"></p>
+<p style="text-align: center"><img src="/assets/photos/Picture1_graph_v2.png" width="600"></p>
 
 - Difficult to add details without making the image too dense.
 
