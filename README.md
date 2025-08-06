@@ -49,7 +49,6 @@ The entire internet is run on the back of HTML, which is a coding language desig
 They allow us to create interactive elements! 
 
 ### <a id="Graphs"></a>Graphs:
-This is an interactive scatter plot on Taiwanese legislators undergoing recall elections, where each point is labelled with name and district. This example highlights the following benefits:  
 
 <iframe src="/assets/photos/legislativerecallscatter2d.html" width="750" height="500" style="border:0;" title="Legislative Recall Scatter Plot"></iframe>
 
