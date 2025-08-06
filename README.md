@@ -11,7 +11,7 @@
   - <a href="#Images" style="color:#000; text-decoration:underline;">Image Sliders</a><br>
   - <a href="#Maps" style="color:#000; text-decoration:underline;">Interactive Maps</a><br>
   <a href="#Frequency" style="color:#000; text-decoration:underline;"><strong>Frequency of use:</strong></a> Monthly at minimum for China team to host our monthly counts on events such as ADIZ incursions. Likely to have major projects at least once every few months that would greatly benefit from interactivity. Geoint would likely use an html embed on a weekly basis.<br>
-  <a href="#Implementation" style="color:#000; text-decoration:underline;"><strong>How hard will implementation be?</strong></a><br>
+  <a href="#Implementation" style="color:#000; text-decoration:underline;"><strong>How hard will implementation be?</strong></a> The new ISW website already has a built-in tool to embed HTML files. No new software downloads, website features, or services needed.<br>
   <a href="#Licensing" style="color:#000; text-decoration:underline;"><strong>Licensing details for Software:</strong></a> China team: R and RStudio are free open-source programs under the GNU General Public License. Github is free to use, but probably requires our code to be public. Full details in the section.
 </div>
 
@@ -54,13 +54,13 @@ They allow us to create interactive elements!
 
 This is an interactive scatter plot on Taiwanese legislators undergoing recall elections, where each point is labelled with name and district. This example highlights the following benefits:  
 
-- Context: Readers who want to find particular districts/legislators don’t have to dig through electoral data themselves to further investigate the info presented in this chart.  
+- **Context**: Readers who want to find particular districts/legislators don’t have to dig through electoral data themselves to further investigate the info presented in this chart.  
 
-- Numerical labels: Hover text eliminates the need to compromise on numerical accuracy to avoid cluttering the graph. It’s a cleaner look. 
+- **Numerical labels**: Hover text eliminates the need to compromise on numerical accuracy to avoid cluttering the graph. It’s a cleaner look. 
 
-- Reader engagement: Likely will also enhance user interaction and improve information retention. Readers are likely to spend more time playing with the data in an interactive graph compared to a static image.  
+- **Reader engagement**: Likely will also enhance user interaction and improve information retention. Readers are likely to spend more time playing with the data in an interactive graph compared to a static image.  
 
-- Transformative analysis: We are able to present data in a more meaningful way through these methods, which enhances the depth of analysis readers take away from our work. This can improve ISW’s reputation and value.  
+- **Transformative analysis**: We are able to present data in a more meaningful way through these methods, which enhances the depth of analysis readers take away from our work. This can improve ISW’s reputation and value.  
 
 There are dozens of interactive graph options available that more effectively condense information compared to default options in Microsoft Excel. See more here: [https://r-graph-gallery.com/interactive-charts.html](https://r-graph-gallery.com/interactive-charts.html) 
 
@@ -226,17 +226,17 @@ Beyond Arcgis, interactive graphics can also be constructed in R.
 
 <iframe src="/assets/photos/interactive_map12.html" width="750" height="500" style="border:0;" title="Interactive Map"></iframe>
 
-Taiwanese legislative recalls could have potentially had geographic patterns, so mapping out the datapoints and color-coding them is valuable. Taiwan’s population distribution makes it extremely difficult to construct a visually pleasing and informative static map.
-
-<p style="text-align: center"><img src="/assets/photos/Picture6_static_taiwan.png" width="400"></p>
+Taiwanese legislative recalls could have potentially had geographic patterns, so mapping out the datapoints and color-coding them is valuable. Taiwan’s extremely uneven population distribution makes it extremely difficult to construct a visually pleasing and informative static electoral map.
 
 Contrast the interactive version with this static version. 
 
-The population is heavily concentrated along the coast so it is very difficult to represent. The icons for legislative seats either overlap or must be set to a really small size. The map below shows the maximum dot size possible to represent each legislative seat, and the color coding is indiscernible at that size. 
+<p style="text-align: center"><img src="/assets/photos/Picture6_static_taiwan.png" width="250"></p>
+
+The population is heavily concentrated along the coast so it is very difficult to represent. The icons for legislative seats either overlap or must be set to a really small size. The map above shows the maximum dot size possible to represent each legislative seat, and the color coding is indiscernible at that size. 
 
 China team is also planning to create an interactive network where readers can explore connections between purged members of the People’s Liberation Army and understand how they are connected in the command-structure.  
 
-This type of product is simply impossible to meaningfully condense into a static form. This is a forthcoming research product that will be used for internal reference at minimum, but it would be a shame if we couldn’t publish it due to website constraints.
+This type of product loses a lot of value in static form. It is a forthcoming research product that will be used for internal reference at minimum, but it would be a shame if we couldn’t publish it due to website constraints.
 
 Sample method to create network charts: [https://r-graph-gallery.com/network-interactive.html](https://r-graph-gallery.com/network-interactive.html)
 
@@ -256,7 +256,7 @@ This is a reference website on the feature this proposal seeks permission to use
     
 <pre><code>&lt;iframe class="mobile-hide" src="URL GOES HERE" width="100%" height="776"&gt;&lt;/iframe&gt;</code></pre>
 
-  - It takes approximately 5 minutes to walk someone new through the process, and Karina is generally available to troubleshoot if there are tech difficulties.  
+  - It takes approximately 5 minutes to walk someone new through the process and is extremely easy to troubleshoot.  
 
 Note: Complex projects such as the interactive map (2000 lines of code) are too much for the WordPress built-in HTML code editor to handle. It crashes the website. This is why we need GitHub – need to get an external site to host the code so the ISW site simply calls on the URL.  
 
