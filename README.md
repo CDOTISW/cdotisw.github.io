@@ -226,13 +226,15 @@ Beyond Arcgis, interactive graphics can also be constructed in R.
 
 <iframe src="/assets/photos/interactive_map12.html" width="750" height="500" style="border:0;" title="Interactive Map"></iframe>
 
-Taiwanese legislative recalls could have potentially had geographic patterns, so mapping out the datapoints and color-coding them is valuable. Taiwan’s extremely uneven population distribution makes it extremely difficult to construct a visually pleasing and informative static electoral map.
+Taiwanese legislative recalls could have potentially had geographic patterns, so mapping out the datapoints and color-coding them is valuable. Taiwan’s population is heavily concentrated along the coast so it is very difficult to evenly space out the icons for legislative seats. 
 
 Contrast the interactive version with this static version. 
 
 <p style="text-align: center"><img src="/assets/photos/Picture6_static_taiwan.png" width="250"></p>
 
-The population is heavily concentrated along the coast so it is very difficult to represent. The icons for legislative seats either overlap or must be set to a really small size. The map above shows the maximum dot size possible to represent each legislative seat, and the color coding is indiscernible at that size. 
+The map above shows the maximum dot size possible to represent each legislative seat, and the color coding is indiscernible at that size. 
+
+The interactive map not only allows readers to zoom in on densely-populated areas to examine districts in detail, but it also provides a lot of additional information via hover-text: geographic labels, numerical values from the color-coding scale, etc. 
 
 China team is also planning to create an interactive network where readers can explore connections between purged members of the People’s Liberation Army and understand how they are connected in the command-structure.  
 
