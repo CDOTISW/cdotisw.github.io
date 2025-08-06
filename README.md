@@ -246,7 +246,7 @@ Sample method to create network charts: [https://r-graph-gallery.com/network-int
 
 ## <a id="Implementation"></a>Implementing HTML Logistics: 
 
-This is a reference website on the feature this proposal seeks permission to use: [Custon HTML block - Wordpress.com Support](https://wordpress.com/support/wordpress-editor/blocks/custom-html-block/)
+This is a reference website on the feature this proposal seeks permission to use: [Custom HTML block - Wordpress.com Support](https://wordpress.com/support/wordpress-editor/blocks/custom-html-block/)
 
 ### Steps to use the Custom HTML block: 
 1. Upload the HTML file into some online hosting software. 
